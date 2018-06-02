@@ -1,0 +1,557 @@
+﻿[
+	{
+		"age_x": "0",
+		"lx": "100000",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "1",
+		"lx": "99305",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "2",
+		"lx": "99255",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "3",
+		"lx": "99222",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "4",
+		"lx": "99197",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "5",
+		"lx": "99176",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "6",
+		"lx": "99158",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "7",
+		"lx": "99140",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "8",
+		"lx": "99124",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "9",
+		"lx": "99110",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "10",
+		"lx": "99097",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "11",
+		"lx": "99085",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "12",
+		"lx": "99073",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "13",
+		"lx": "99057",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "14",
+		"lx": "99033",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "15",
+		"lx": "98998",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "16",
+		"lx": "98950",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "17",
+		"lx": "98891",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "18",
+		"lx": "98822",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "19",
+		"lx": "98745",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "20",
+		"lx": "98664",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "21",
+		"lx": "98577",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "22",
+		"lx": "98485",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "23",
+		"lx": "98390",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "24",
+		"lx": "98295",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "25",
+		"lx": "98202",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "26",
+		"lx": "98111",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "27",
+		"lx": "98022",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "28",
+		"lx": "97934",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "29",
+		"lx": "97844",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "30",
+		"lx": "97750",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "31",
+		"lx": "97652",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "32",
+		"lx": "97549",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "33",
+		"lx": "97441",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "34",
+		"lx": "97324",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "35",
+		"lx": "97199",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "36",
+		"lx": "97065",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "37",
+		"lx": "96921",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "38",
+		"lx": "96767",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "39",
+		"lx": "96600",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "40",
+		"lx": "96419",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "41",
+		"lx": "96223",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "42",
+		"lx": "96010",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "43",
+		"lx": "95782",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "44",
+		"lx": "95535",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "45",
+		"lx": "95268",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "46",
+		"lx": "94981",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "47",
+		"lx": "94670",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "48",
+		"lx": "94335",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "49",
+		"lx": "93975",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "50",
+		"lx": "93591",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "51",
+		"lx": "93180",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "52",
+		"lx": "92741",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "53",
+		"lx": "92270",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "54",
+		"lx": "91762",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "55",
+		"lx": "91211",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "56",
+		"lx": "90607",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "57",
+		"lx": "89947",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "58",
+		"lx": "89225",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "59",
+		"lx": "88441",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "60",
+		"lx": "87595",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "61",
+		"lx": "86681",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "62",
+		"lx": "85691",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "63",
+		"lx": "84620",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "64",
+		"lx": "83465",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "65",
+		"lx": "82224",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "66",
+		"lx": "80916",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "67",
+		"lx": "79530",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "68",
+		"lx": "78054",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "69",
+		"lx": "76478",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "70",
+		"lx": "74794",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "71",
+		"lx": "73001",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "72",
+		"lx": "71092",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "73",
+		"lx": "69056",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "74",
+		"lx": "66882",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "75",
+		"lx": "64561",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "76",
+		"lx": "62091",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "77",
+		"lx": "59476",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "78",
+		"lx": "56721",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "79",
+		"lx": "53833",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "80",
+		"lx": "50819",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "81",
+		"lx": "47694",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "82",
+		"lx": "44475",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "83",
+		"lx": "41181",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "84",
+		"lx": "37837",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "85",
+		"lx": "34471",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "86",
+		"lx": "31114",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "87",
+		"lx": "27799",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "88",
+		"lx": "24564",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "89",
+		"lx": "21443",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "90",
+		"lx": "18472",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "91",
+		"lx": "15685",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "92",
+		"lx": "13111",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "93",
+		"lx": "10773",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "94",
+		"lx": "8690",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "95",
+		"lx": "6871",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "96",
+		"lx": "5315",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "97",
+		"lx": "4016",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "98",
+		"lx": "2959",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "99",
+		"lx": "2122",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "100",
+		"lx": "1477",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "101",
+		"lx": "997",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "102",
+		"lx": "650",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "103",
+		"lx": "410",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "104",
+		"lx": "248",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "105",
+		"lx": "144",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "106",
+		"lx": "81",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "107",
+		"lx": "43",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "108",
+		"lx": "22",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "109",
+		"lx": "11",
+		"mrtltytbl": "2000CM"
+	},
+	{
+		"age_x": "110",
+		"lx": "0",
+		"mrtltytbl": "2000CM"
+	}
+]
