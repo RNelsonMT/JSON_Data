@@ -1,0 +1,23 @@
+﻿{
+  "property": [
+    {
+      "desc": "",
+      "owner": "",
+      "value": 0,
+      "propID": "",
+      "706Sched": ""
+    }
+  ],
+  "people": [
+    {
+      "fullname": "",
+      "prsnID": ""
+    }
+  ],
+  "planning": [
+    {
+      "planID": "",
+      "fidApptPR": ""
+    }
+  ]
+}
