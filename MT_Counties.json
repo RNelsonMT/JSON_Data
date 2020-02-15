@@ -1,226 +1,338 @@
-[{
-		"name": "Anaconda-Deer Lodge",
-		"seat": "Anaconda",
-		"plate": "30"
-	}, {
-		"name": "Beaverhead",
-		"seat": "Dillon",
-		"plate": "18"
-	}, {
-		"name": "Big Horn",
-		"seat": "Hardin",
-		"plate": "22"
-	}, {
-		"name": "Blaine",
-		"seat": "Chinook",
-		"plate": "24"
-	}, {
-		"name": "Broadwater",
-		"seat": "Townsend",
-		"plate": "43"
-	}, {
-		"name": "Butte-Silver Bow",
-		"seat": "Butte",
-		"plate": "01"
-	}, {
-		"name": "Carbon",
-		"seat": "Red Lodge",
-		"plate": "10"
-	}, {
-		"name": "Carter",
-		"seat": "Ekalaka",
-		"plate": "42"
-	}, {
-		"name": "Cascade",
-		"seat": "Great Falls",
-		"plate": "02"
-	}, {
-		"name": "Chouteau",
-		"seat": "Fort Benton",
-		"plate": "19"
-	}, {
-		"name": "Custer",
-		"seat": "Miles City",
-		"plate": "14"
-	}, {
-		"name": "Daniels",
-		"seat": "Scobey",
-		"plate": "37"
-	}, {
-		"name": "Dawson",
-		"seat": "Glendive",
-		"plate": "16"
-	}, {
-		"name": "Fallon",
-		"seat": "Baker",
-		"plate": "39"
-	}, {
-		"name": "Fergus",
-		"seat": "Lewistown",
-		"plate": "08"
-	}, {
-		"name": "Flathead",
-		"seat": "Kalispell",
-		"plate": "07"
-	}, {
-		"name": "Gallatin",
-		"seat": "Bozeman",
-		"plate": "06"
-	}, {
-		"name": "Garfield",
-		"seat": "Jordan",
-		"plate": "50"
-	}, {
-		"name": "Glacier",
-		"seat": "Cut Bank",
-		"plate": "38"
-	}, {
-		"name": "Golden Valley",
-		"seat": "Ryegate",
-		"plate": "53"
-	}, {
-		"name": "Granite",
-		"seat": "Philipsburg",
-		"plate": "46"
-	}, {
-		"name": "Hill",
-		"seat": "Havre",
-		"plate": "12"
-	}, {
-		"name": "Jefferson",
-		"seat": "Boulder",
-		"plate": "51"
-	}, {
-		"name": "Judith Basin",
-		"seat": "Stanford",
-		"plate": "36"
-	}, {
-		"name": "Lake",
-		"seat": "Polson",
-		"plate": "15"
-	}, {
-		"name": "Lewis & Clark",
-		"seat": "Helena",
-		"plate": "05"
-	}, {
-		"name": "Liberty",
-		"seat": "Chester",
-		"plate": "48"
-	}, {
-		"name": "Lincoln",
-		"seat": "Libby",
-		"plate": "56"
-	}, {
-		"name": "Madison",
-		"seat": "Virginia City",
-		"plate": "25"
-	}, {
-		"name": "McCone",
-		"seat": "Circle",
-		"plate": "41"
-	}, {
-		"name": "Meagher",
-		"seat": "White Sulphur Springs",
-		"plate": "47"
-	}, {
-		"name": "Mineral",
-		"seat": "Superior",
-		"plate": "54"
-	}, {
-		"name": "Missoula",
-		"seat": "Missoula",
-		"plate": "04"
-	}, {
-		"name": "Musselshell",
-		"seat": "Roundup",
-		"plate": "23"
-	}, {
-		"name": "Park",
-		"seat": "Livingston",
-		"plate": "49"
-	}, {
-		"name": "Petroleum",
-		"seat": "Winnett",
-		"plate": "55"
-	}, {
-		"name": "Phillips",
-		"seat": "Malta",
-		"plate": "11"
-	}, {
-		"name": "Pondera",
-		"seat": "Conrad",
-		"plate": "26"
-	}, {
-		"name": "Powder River",
-		"seat": "Broadus",
-		"plate": "09"
-	}, {
-		"name": "Powell",
-		"seat": "Deer Lodge",
-		"plate": "28"
-	}, {
-		"name": "Prairie",
-		"seat": "Terry",
-		"plate": "45"
-	}, {
-		"name": "Ravalli",
-		"seat": "Hamilton",
-		"plate": "13"
-	}, {
-		"name": "Richland",
-		"seat": "Sidney",
-		"plate": "27"
-	}, {
-		"name": "Roosevelt",
-		"seat": "Wolf Point",
-		"plate": "17"
-	}, {
-		"name": "Rosebud",
-		"seat": "Forsyth",
-		"plate": "29"
-	}, {
-		"name": "Sanders",
-		"seat": "Thompson Falls",
-		"plate": "35"
-	}, {
-		"name": "Sheridan",
-		"seat": "Plentywood",
-		"plate": "34"
-	}, {
-		"name": "Stillwater",
-		"seat": "Columbus",
-		"plate": "32"
-	}, {
-		"name": "Sweet Grass",
-		"seat": "Big Timber",
-		"plate": "40"
-	}, {
-		"name": "Teton",
-		"seat": "Choteau",
-		"plate": "31"
-	}, {
-		"name": "Toole",
-		"seat": "Shelby",
-		"plate": "21"
-	}, {
-		"name": "Treasure",
-		"seat": "Hysham",
-		"plate": "33"
-	}, {
-		"name": "Valley",
-		"seat": "Glasgow",
-		"plate": "20"
-	}, {
-		"name": "Wheatland",
-		"seat": "Harlowton",
-		"plate": "44"
-	}, {
-		"name": "Wibaux",
-		"seat": "Wibaux",
-		"plate": "52"
-	}, {
-		"name": "Yellowstone",
-		"seat": "Billings",
-		"plate": "03"
-	}
+[
+  {
+    "name": " Beaverhead",
+    "seat": "Dillon",
+    "plate": "18",
+    "jud_dist": "5"
+  },
+  {
+    "name": " Big Horn",
+    "seat": "Hardin",
+    "plate": "22",
+    "jud_dist": "13"
+  },
+  {
+    "name": " Blaine",
+    "seat": "Chinook",
+    "plate": "24",
+    "jud_dist": "17"
+  },
+  {
+    "name": " Broadwater",
+    "seat": "Townsend",
+    "plate": "43",
+    "jud_dist": "1"
+  },
+  {
+    "name": " Carbon",
+    "seat": "Red Lodge",
+    "plate": "10",
+    "jud_dist": "13"
+  },
+  {
+    "name": " Carter",
+    "seat": "Ekalaka",
+    "plate": "42",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Cascade",
+    "seat": "Great Falls",
+    "plate": "2",
+    "jud_dist": "8"
+  },
+  {
+    "name": " Chouteau",
+    "seat": "Fort Benton",
+    "plate": "19",
+    "jud_dist": "12"
+  },
+  {
+    "name": " Custer",
+    "seat": "Miles City",
+    "plate": "14",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Daniels",
+    "seat": "Scobey",
+    "plate": "37",
+    "jud_dist": "15"
+  },
+  {
+    "name": " Dawson",
+    "seat": "Glendive",
+    "plate": "16",
+    "jud_dist": "7"
+  },
+  {
+    "name": " Anaconda-Deer Lodge",
+    "seat": "Anaconda",
+    "plate": "30",
+    "jud_dist": "3"
+  },
+  {
+    "name": " Fallon",
+    "seat": "Baker",
+    "plate": "39",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Fergus",
+    "seat": "Lewistown",
+    "plate": "8",
+    "jud_dist": "10"
+  },
+  {
+    "name": " Flathead",
+    "seat": "Kalispell",
+    "plate": "7",
+    "jud_dist": "11"
+  },
+  {
+    "name": " Gallatin",
+    "seat": "Bozeman",
+    "plate": "6",
+    "jud_dist": "18"
+  },
+  {
+    "name": " Garfield",
+    "seat": "Jordan",
+    "plate": "50",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Glacier",
+    "seat": "Cut Bank",
+    "plate": "38",
+    "jud_dist": "9"
+  },
+  {
+    "name": " Golden Valley",
+    "seat": "Ryegate",
+    "plate": "53",
+    "jud_dist": "14"
+  },
+  {
+    "name": " Granite",
+    "seat": "Philipsburg",
+    "plate": "46",
+    "jud_dist": "3"
+  },
+  {
+    "name": " Hill",
+    "seat": "Havre",
+    "plate": "12",
+    "jud_dist": "12"
+  },
+  {
+    "name": " Jefferson",
+    "seat": "Boulder",
+    "plate": "51",
+    "jud_dist": "5"
+  },
+  {
+    "name": " Judith Basin",
+    "seat": "Stanford",
+    "plate": "36",
+    "jud_dist": "10"
+  },
+  {
+    "name": " Lake",
+    "seat": "Polson",
+    "plate": "15",
+    "jud_dist": "20"
+  },
+  {
+    "name": " Lewis And Clark",
+    "seat": "Helena",
+    "plate": "5",
+    "jud_dist": "1"
+  },
+  {
+    "name": " Liberty",
+    "seat": "Chester",
+    "plate": "48",
+    "jud_dist": "12"
+  },
+  {
+    "name": " Lincoln",
+    "seat": "Libby",
+    "plate": "56",
+    "jud_dist": "19"
+  },
+  {
+    "name": " Madison",
+    "seat": "Virginia City",
+    "plate": "25",
+    "jud_dist": "5"
+  },
+  {
+    "name": " McCone",
+    "seat": "Circle",
+    "plate": "41",
+    "jud_dist": "7"
+  },
+  {
+    "name": " Meagher",
+    "seat": "White Sulphur Springs",
+    "plate": "47",
+    "jud_dist": "14"
+  },
+  {
+    "name": " Mineral",
+    "seat": "Superior",
+    "plate": "54",
+    "jud_dist": "4"
+  },
+  {
+    "name": " Missoula",
+    "seat": "Missoula",
+    "plate": "4",
+    "jud_dist": "4"
+  },
+  {
+    "name": " Musselshell",
+    "seat": "Roundup",
+    "plate": "23",
+    "jud_dist": "14"
+  },
+  {
+    "name": " Park",
+    "seat": "Livingston",
+    "plate": "49",
+    "jud_dist": "6"
+  },
+  {
+    "name": " Petroleum",
+    "seat": "Winnett",
+    "plate": "55",
+    "jud_dist": "10"
+  },
+  {
+    "name": " Phillips",
+    "seat": "Malta",
+    "plate": "11",
+    "jud_dist": "17"
+  },
+  {
+    "name": " Pondera",
+    "seat": "Contrad",
+    "plate": "26",
+    "jud_dist": "9"
+  },
+  {
+    "name": " Powder River",
+    "seat": "Broadus",
+    "plate": "9",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Powell",
+    "seat": "Deer Lodge",
+    "plate": "28",
+    "jud_dist": "3"
+  },
+  {
+    "name": " Prairie",
+    "seat": "Terry",
+    "plate": "45",
+    "jud_dist": "7"
+  },
+  {
+    "name": " Ravalli",
+    "seat": "Hamilton",
+    "plate": "13",
+    "jud_dist": "21"
+  },
+  {
+    "name": " Richland",
+    "seat": "Sidney",
+    "plate": "27",
+    "jud_dist": "7"
+  },
+  {
+    "name": " Roosevelt",
+    "seat": "Wolf Point",
+    "plate": "17",
+    "jud_dist": "15"
+  },
+  {
+    "name": " Rosebud",
+    "seat": "Forsyth",
+    "plate": "29",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Sanders",
+    "seat": "Thompson Falls",
+    "plate": "35",
+    "jud_dist": "20"
+  },
+  {
+    "name": " Sheridan",
+    "seat": "Plentywood",
+    "plate": "34",
+    "jud_dist": "15"
+  },
+  {
+    "name": " Butte-Silver Bow",
+    "seat": "Butte",
+    "plate": "1",
+    "jud_dist": "2"
+  },
+  {
+    "name": " Stillwater",
+    "seat": "Columbus",
+    "plate": "32",
+    "jud_dist": "13"
+  },
+  {
+    "name": " Sweet Grass",
+    "seat": "Big Timber",
+    "plate": "40",
+    "jud_dist": "6"
+  },
+  {
+    "name": " Teton",
+    "seat": "Choteau",
+    "plate": "31",
+    "jud_dist": "9"
+  },
+  {
+    "name": " Toole",
+    "seat": "Shelby",
+    "plate": "21",
+    "jud_dist": "9"
+  },
+  {
+    "name": " Treasure",
+    "seat": "Hysham",
+    "plate": "33",
+    "jud_dist": "16"
+  },
+  {
+    "name": " Valley",
+    "seat": "Glasgow",
+    "plate": "20",
+    "jud_dist": "17"
+  },
+  {
+    "name": " Wheatland",
+    "seat": "Harlowton",
+    "plate": "44",
+    "jud_dist": "14"
+  },
+  {
+    "name": " Wibaux",
+    "seat": "Wibaux",
+    "plate": "52",
+    "jud_dist": "7"
+  },
+  {
+    "name": " Yellowstone",
+    "seat": "Billings",
+    "plate": "3",
+    "jud_dist": "13"
+  }
 ]
