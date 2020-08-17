@@ -1,5 +1,18 @@
-﻿{"matID": "",
+{
+  "matter": [
+    {
+      "matID": "",
+      "client": ""
+    }
+  ],
   "property": [
+    {
+      "desc": "",
+      "owner": "",
+      "value": 0,
+      "propID": "",
+      "706Sched": ""
+    },
     {
       "desc": "",
       "owner": "",
@@ -11,7 +24,15 @@
   "people": [
     {
       "fullname": "",
-      "prsnID": ""
+      "prsnID": "",
+      "relref": "",
+      "relationship": ""
+    },
+    {
+      "fullname": "",
+      "prsnID": "",
+      "relref": "",
+      "relationship": ""
     }
   ],
   "planning": [
